@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5250/trunk/src/test/java/org/apache/ibatis/type
+END
+ShortTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/ShortTypeHandlerTest.java
+END
+LongTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/LongTypeHandlerTest.java
+END
+UnknownTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/UnknownTypeHandlerTest.java
+END
+TimeOnlyTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/TimeOnlyTypeHandlerTest.java
+END
+SqlTimetampTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/SqlTimetampTypeHandlerTest.java
+END
+ByteArrayTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/ByteArrayTypeHandlerTest.java
+END
+ByteTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/ByteTypeHandlerTest.java
+END
+EnumTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/EnumTypeHandlerTest.java
+END
+FloatTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/FloatTypeHandlerTest.java
+END
+StringTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/StringTypeHandlerTest.java
+END
+ObjectTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/ObjectTypeHandlerTest.java
+END
+TypeHandlerRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/type/TypeHandlerRegistryTest.java
+END
+BaseTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/BaseTypeHandlerTest.java
+END
+DoubleTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/DoubleTypeHandlerTest.java
+END
+EnumOrdinalTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/EnumOrdinalTypeHandlerTest.java
+END
+DateTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/DateTypeHandlerTest.java
+END
+GenericTypeSupportedInHierarchiesTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5250/trunk/src/test/java/org/apache/ibatis/type/GenericTypeSupportedInHierarchiesTestCase.java
+END
+BlobTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/BlobTypeHandlerTest.java
+END
+SqlTimeTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/SqlTimeTypeHandlerTest.java
+END
+BooleanTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/BooleanTypeHandlerTest.java
+END
+ClobTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/ClobTypeHandlerTest.java
+END
+DateOnlyTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/DateOnlyTypeHandlerTest.java
+END
+BigDecimalTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/BigDecimalTypeHandlerTest.java
+END
+TypeAliasRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/type/TypeAliasRegistryTest.java
+END
+SimpleTypeRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4699/trunk/src/test/java/org/apache/ibatis/type/SimpleTypeRegistryTest.java
+END
+CharacterTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/CharacterTypeHandlerTest.java
+END
+SqlDateTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/SqlDateTypeHandlerTest.java
+END
+IntegerTypeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5171/trunk/src/test/java/org/apache/ibatis/type/IntegerTypeHandlerTest.java
+END

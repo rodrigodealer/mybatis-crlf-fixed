@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/builder/xml/dynamic
+END
+ExpressionEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/builder/xml/dynamic/ExpressionEvaluatorTest.java
+END
+DynamicSqlSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/builder/xml/dynamic/DynamicSqlSourceTest.java
+END

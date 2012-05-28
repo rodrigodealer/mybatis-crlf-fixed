@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts
+END
+jpetstore-hsqldb-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/jpetstore-hsqldb-dataload.sql
+END
+jira.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/jira.sql
+END
+oracle-proc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/oracle-proc.sql
+END
+line_item-init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/line_item-init.sql
+END
+person-init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/person-init.sql
+END
+derby-proc-init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/derby-proc-init.sql
+END
+jpetstore-hsqldb-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/jpetstore-hsqldb-schema.sql
+END
+docs-init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/docs-init.sql
+END
+more-account-records.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/more-account-records.sql
+END
+order-init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/order-init.sql
+END
+account-init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5159/trunk/src/test/java/com/scripts/account-init.sql
+END

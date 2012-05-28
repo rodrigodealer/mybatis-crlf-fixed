@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/package-info.java
+END
+TransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/TransactionException.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/Transaction.java
+END
+TransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/TransactionFactory.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/executor
+END
+BatchExecutorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/BatchExecutorException.java
+END
+BatchExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4622/trunk/src/main/java/org/apache/ibatis/executor/BatchExecutor.java
+END
+BatchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4613/trunk/src/main/java/org/apache/ibatis/executor/BatchResult.java
+END
+ReuseExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4622/trunk/src/main/java/org/apache/ibatis/executor/ReuseExecutor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/package-info.java
+END
+ExecutionPlaceholder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/ExecutionPlaceholder.java
+END
+SimpleExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4622/trunk/src/main/java/org/apache/ibatis/executor/SimpleExecutor.java
+END
+BaseExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/executor/BaseExecutor.java
+END
+CachingExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5136/trunk/src/main/java/org/apache/ibatis/executor/CachingExecutor.java
+END
+ExecutorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/ExecutorException.java
+END
+ErrorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/ErrorContext.java
+END
+Executor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4604/trunk/src/main/java/org/apache/ibatis/executor/Executor.java
+END

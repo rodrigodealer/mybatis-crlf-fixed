@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/includes
+END
+IncludeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/includes/IncludeTest.java
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/includes/Mapper.xml
+END
+Fragments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/includes/Fragments.xml
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/includes/MapperConfig.xml
+END

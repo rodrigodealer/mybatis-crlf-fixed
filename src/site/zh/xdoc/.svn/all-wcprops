@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5273/trunk/src/site/zh/xdoc
+END
+dynamic-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4844/trunk/src/site/zh/xdoc/dynamic-sql.xml
+END
+getting-started.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4844/trunk/src/site/zh/xdoc/getting-started.xml
+END
+logging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5094/trunk/src/site/zh/xdoc/logging.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4844/trunk/src/site/zh/xdoc/index.xml
+END
+configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4990/trunk/src/site/zh/xdoc/configuration.xml
+END
+java-api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5093/trunk/src/site/zh/xdoc/java-api.xml
+END
+statement-builders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4844/trunk/src/site/zh/xdoc/statement-builders.xml
+END
+sqlmap-xml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5273/trunk/src/site/zh/xdoc/sqlmap-xml.xml
+END

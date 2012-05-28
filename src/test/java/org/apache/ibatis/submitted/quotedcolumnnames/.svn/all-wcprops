@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/quotedcolumnnames
+END
+QuotedColumnNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/quotedcolumnnames/QuotedColumnNamesTest.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/quotedcolumnnames/CreateDB.sql
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/quotedcolumnnames/MapperConfig.xml
+END
+Map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/quotedcolumnnames/Map.xml
+END

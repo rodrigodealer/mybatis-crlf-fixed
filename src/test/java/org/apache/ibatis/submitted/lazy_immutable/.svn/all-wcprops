@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable
+END
+ibatisConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable/ibatisConfig.xml
+END
+ImmutablePOJOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJOTest.java
+END
+ImmutablePOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJO.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable/CreateDB.sql
+END
+ImmutablePOJOMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJOMapper.xml
+END
+ImmutablePOJOMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJOMapper.java
+END

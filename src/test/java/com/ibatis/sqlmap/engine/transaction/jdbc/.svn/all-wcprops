@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/jdbc
+END
+JdbcTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/jdbc/JdbcTransaction.java
+END
+JdbcTransactionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/jdbc/JdbcTransactionConfig.java
+END

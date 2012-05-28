@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5112/trunk/src/test/java/org/apache/ibatis/submitted/simplelistparameter
+END
+Car.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5112/trunk/src/test/java/org/apache/ibatis/submitted/simplelistparameter/Car.java
+END
+SimpleListParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5112/trunk/src/test/java/org/apache/ibatis/submitted/simplelistparameter/SimpleListParameterTest.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5112/trunk/src/test/java/org/apache/ibatis/submitted/simplelistparameter/CreateDB.sql
+END
+CarMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5112/trunk/src/test/java/org/apache/ibatis/submitted/simplelistparameter/CarMapper.java
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5112/trunk/src/test/java/org/apache/ibatis/submitted/simplelistparameter/mybatis-config.xml
+END

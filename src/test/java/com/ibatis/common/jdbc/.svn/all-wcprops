@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/common/jdbc
+END
+DbcpConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/common/jdbc/DbcpConfiguration.java
+END
+SimpleDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/common/jdbc/SimpleDataSource.java
+END
+ScriptRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/common/jdbc/ScriptRunner.java
+END

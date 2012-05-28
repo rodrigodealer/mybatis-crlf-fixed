@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog
+END
+PostLiteId.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/PostLiteId.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/Comment.java
+END
+ImmutableAuthor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/ImmutableAuthor.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/Author.java
+END
+Blog.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/Blog.java
+END
+PostLite.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/PostLite.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/Section.java
+END
+Post.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/Post.java
+END
+DraftPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/DraftPost.java
+END
+ComplexImmutableAuthorId.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/ComplexImmutableAuthorId.java
+END
+ComplexImmutableAuthor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/ComplexImmutableAuthor.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5159/trunk/src/test/java/domain/blog/Tag.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/engine/transaction/external
+END
+ExternalDaoTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/engine/transaction/external/ExternalDaoTransactionManager.java
+END
+ExternalDaoTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/engine/transaction/external/ExternalDaoTransaction.java
+END

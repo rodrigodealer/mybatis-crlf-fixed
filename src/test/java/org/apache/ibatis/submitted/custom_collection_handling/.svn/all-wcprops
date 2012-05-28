@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling
+END
+CustomObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/4716/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomObjectWrapper.java
+END
+CustomCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4695/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomCollection.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/Person.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/CreateDB.sql
+END
+CustomObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/4695/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomObjectFactory.java
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/MapperConfig.xml
+END
+CustomObjectWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/4695/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomObjectWrapperFactory.java
+END
+PersonMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/PersonMapper.xml
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4690/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/Contact.java
+END
+CustomCollectionHandlingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomCollectionHandlingTest.java
+END

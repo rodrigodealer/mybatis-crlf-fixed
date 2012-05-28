@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/builder/xml
+END
+XMLMapperEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/xml/package-info.java
+END
+mybatis-3-mapper.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd
+END
+mybatis-3-config.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/xml/mybatis-3-config.dtd
+END
+XMLIncludeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/builder/xml/XMLIncludeTransformer.java
+END
+XMLMapperBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5117/trunk/src/main/java/org/apache/ibatis/builder/xml/XMLMapperBuilder.java
+END
+XMLStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/builder/xml/XMLStatementBuilder.java
+END
+XMLConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/builder/xml/XMLConfigBuilder.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5268/trunk/src/main/java/org/apache/ibatis/logging/jdbc
+END
+ConnectionLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4666/trunk/src/main/java/org/apache/ibatis/logging/jdbc/ConnectionLogger.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/logging/jdbc/package-info.java
+END
+StatementLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4622/trunk/src/main/java/org/apache/ibatis/logging/jdbc/StatementLogger.java
+END
+PreparedStatementLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4666/trunk/src/main/java/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.java
+END
+ResultSetLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5268/trunk/src/main/java/org/apache/ibatis/logging/jdbc/ResultSetLogger.java
+END
+BaseJdbcLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5268/trunk/src/main/java/org/apache/ibatis/logging/jdbc/BaseJdbcLogger.java
+END

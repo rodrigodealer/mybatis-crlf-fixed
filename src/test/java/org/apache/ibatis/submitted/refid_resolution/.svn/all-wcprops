@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution
+END
+ExternalRefidResolutionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5137/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/ExternalRefidResolutionTest.java
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/Mapper.xml
+END
+ExternalMapper1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5137/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/ExternalMapper1.xml
+END
+ExternalMapper2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5137/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/ExternalMapper2.xml
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/MapperConfig.xml
+END
+ExternalMapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5137/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/ExternalMapperConfig.xml
+END
+RefidResolutionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/RefidResolutionTest.java
+END

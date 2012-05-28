@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/keygen
+END
+SelectKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4954/trunk/src/main/java/org/apache/ibatis/executor/keygen/SelectKeyGenerator.java
+END
+KeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4954/trunk/src/main/java/org/apache/ibatis/executor/keygen/KeyGenerator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/keygen/package-info.java
+END
+Jdbc3KeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4954/trunk/src/main/java/org/apache/ibatis/executor/keygen/Jdbc3KeyGenerator.java
+END
+NoKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4954/trunk/src/main/java/org/apache/ibatis/executor/keygen/NoKeyGenerator.java
+END

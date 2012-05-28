@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding
+END
+ColumnForwardingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/ColumnForwardingTest.java
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/Mapper.xml
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/Mapper.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/CreateDB.sql
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/mybatis-config.xml
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/Group.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5010/trunk/src/test/java/org/apache/ibatis/submitted/column_forwarding/User.java
+END

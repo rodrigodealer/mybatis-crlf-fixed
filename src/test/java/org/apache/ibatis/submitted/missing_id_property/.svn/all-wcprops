@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property
+END
+Car.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/Car.java
+END
+Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/Part.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/CreateDB.sql
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/MapperConfig.xml
+END
+CarMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/CarMapper.java
+END
+MissingIdPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/MissingIdPropertyTest.java
+END
+Map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4939/trunk/src/test/java/org/apache/ibatis/submitted/missing_id_property/Map.xml
+END

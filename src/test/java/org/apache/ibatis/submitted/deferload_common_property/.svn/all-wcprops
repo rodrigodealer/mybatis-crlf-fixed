@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property
+END
+ibatisConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/ibatisConfig.xml
+END
+lazyLoadIbatisConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/lazyLoadIbatisConfig.xml
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/Child.java
+END
+ChildMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/ChildMapper.xml
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/CreateDB.sql
+END
+ChildMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/ChildMapper.java
+END
+Father.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/Father.java
+END
+FatherMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/FatherMapper.xml
+END
+CommonPropertyDeferLoadError.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/CommonPropertyDeferLoadError.java
+END
+FatherMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/deferload_common_property/FatherMapper.java
+END

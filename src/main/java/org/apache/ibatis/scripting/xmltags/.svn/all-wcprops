@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting/xmltags
+END
+WhereSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/WhereSqlNode.java
+END
+TrimSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/TrimSqlNode.java
+END
+SqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/SqlNode.java
+END
+ChooseSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/ChooseSqlNode.java
+END
+TextSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/TextSqlNode.java
+END
+SetSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/SetSqlNode.java
+END
+ExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/ExpressionEvaluator.java
+END
+OgnlCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/OgnlCache.java
+END
+IfSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/IfSqlNode.java
+END
+DynamicSqlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5238/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/DynamicSqlSource.java
+END
+XMLDynamicLanguageDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/XMLDynamicLanguageDriver.java
+END
+DynamicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/DynamicContext.java
+END
+XMLScriptBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/XMLScriptBuilder.java
+END
+MixedSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/MixedSqlNode.java
+END
+ForEachSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/scripting/xmltags/ForEachSqlNode.java
+END

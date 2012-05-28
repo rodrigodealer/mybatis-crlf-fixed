@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/managed
+END
+ManagedTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4609/trunk/src/main/java/org/apache/ibatis/transaction/managed/ManagedTransaction.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/managed/package-info.java
+END
+ManagedTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/transaction/managed/ManagedTransactionFactory.java
+END

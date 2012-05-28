@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction
+END
+TransactionScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/TransactionScope.java
+END
+BaseTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/BaseTransaction.java
+END
+TransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/TransactionManager.java
+END
+TransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/TransactionException.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/Transaction.java
+END
+BaseTransactionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/BaseTransactionConfig.java
+END
+IsolationLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/IsolationLevel.java
+END
+TransactionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/sqlmap/engine/transaction/TransactionConfig.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type
+END
+IbatisConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/IbatisConfig.java
+END
+create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/create.sql
+END
+ProductDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/ProductDAO.java
+END
+ProductMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/ProductMapper.xml
+END
+ProductMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/ProductMapper.java
+END
+PrimitiveResultTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/PrimitiveResultTypeTest.java
+END
+ibatis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/primitive_result_type/ibatis.xml
+END

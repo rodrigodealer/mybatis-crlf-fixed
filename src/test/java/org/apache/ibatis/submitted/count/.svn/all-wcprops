@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/count
+END
+Count.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/count/Count.xml
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/count/CreateDB.sql
+END
+CountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/count/CountTest.java
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/count/MapperConfig.xml
+END
+CountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/count/CountMapper.java
+END

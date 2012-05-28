@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/integer_enum
+END
+IntegerEnumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/integer_enum/IntegerEnumTest.java
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/integer_enum/Mapper.xml
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/integer_enum/MapperConfig.xml
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/integer_enum/Record.java
+END

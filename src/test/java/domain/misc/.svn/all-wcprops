@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/Employee.java
+END
+CustomBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/CustomBeanWrapper.java
+END
+RichType.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/RichType.java
+END
+CustomBeanWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/CustomBeanWrapperFactory.java
+END

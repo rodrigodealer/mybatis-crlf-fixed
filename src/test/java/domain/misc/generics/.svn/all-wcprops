@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/generics
+END
+GenericConcrete.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/generics/GenericConcrete.java
+END
+GenericAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/generics/GenericAbstract.java
+END
+GenericSubclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/generics/GenericSubclass.java
+END
+GenericInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/test/java/domain/misc/generics/GenericInterface.java
+END

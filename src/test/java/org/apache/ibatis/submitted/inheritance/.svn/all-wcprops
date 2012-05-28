@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5270/trunk/src/test/java/org/apache/ibatis/submitted/inheritance
+END
+BaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5269/trunk/src/test/java/org/apache/ibatis/submitted/inheritance/BaseMapper.java
+END
+UserProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5269/trunk/src/test/java/org/apache/ibatis/submitted/inheritance/UserProfile.java
+END
+UserProfileMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5269/trunk/src/test/java/org/apache/ibatis/submitted/inheritance/UserProfileMapper.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5269/trunk/src/test/java/org/apache/ibatis/submitted/inheritance/CreateDB.sql
+END
+InheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5270/trunk/src/test/java/org/apache/ibatis/submitted/inheritance/InheritanceTest.java
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5269/trunk/src/test/java/org/apache/ibatis/submitted/inheritance/mybatis-config.xml
+END

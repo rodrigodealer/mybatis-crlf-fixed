@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting/defaults
+END
+DefaultParameterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5238/trunk/src/main/java/org/apache/ibatis/scripting/defaults/DefaultParameterHandler.java
+END
+RawSqlLanguageDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting/defaults/RawSqlLanguageDriver.java
+END
+RawSqlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5236/trunk/src/main/java/org/apache/ibatis/scripting/defaults/RawSqlSource.java
+END

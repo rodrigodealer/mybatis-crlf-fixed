@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting
+END
+LanguageDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5262/trunk/src/main/java/org/apache/ibatis/scripting/LanguageDriver.java
+END
+ScriptingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5251/trunk/src/main/java/org/apache/ibatis/scripting/ScriptingException.java
+END
+LanguageDriverRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5251/trunk/src/main/java/org/apache/ibatis/scripting/LanguageDriverRegistry.java
+END

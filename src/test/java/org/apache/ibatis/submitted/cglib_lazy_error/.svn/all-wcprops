@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error
+END
+ibatisConfigLazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/ibatisConfigLazy.xml
+END
+ibatisConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/ibatisConfig.xml
+END
+CglibNPETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/CglibNPETest.java
+END
+CglibNPELazyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/CglibNPELazyTest.java
+END
+Person.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/Person.xml
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/Person.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/CreateDB.sql
+END
+PersonMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/cglib_lazy_error/PersonMapper.java
+END

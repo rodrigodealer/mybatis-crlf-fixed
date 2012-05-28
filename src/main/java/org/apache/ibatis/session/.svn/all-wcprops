@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5251/trunk/src/main/java/org/apache/ibatis/session
+END
+TransactionIsolationLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/TransactionIsolationLevel.java
+END
+ExecutorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/ExecutorType.java
+END
+RowBounds.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/RowBounds.java
+END
+SqlSessionFactoryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/SqlSessionFactoryBuilder.java
+END
+SqlSessionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/SqlSessionException.java
+END
+SqlSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4998/trunk/src/main/java/org/apache/ibatis/session/SqlSession.java
+END
+ResultContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/ResultContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/package-info.java
+END
+AutoMappingBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4738/trunk/src/main/java/org/apache/ibatis/session/AutoMappingBehavior.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5251/trunk/src/main/java/org/apache/ibatis/session/Configuration.java
+END
+LocalCacheScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4717/trunk/src/main/java/org/apache/ibatis/session/LocalCacheScope.java
+END
+SqlSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/SqlSessionFactory.java
+END
+ResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/ResultHandler.java
+END
+SqlSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/SqlSessionManager.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type/Mapper.xml
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type/Property.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type/CreateDB.sql
+END
+ComplexTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type/ComplexTypeTest.java
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type/mybatis-config.xml
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5235/trunk/src/test/java/org/apache/ibatis/submitted/complex_type/Item.java
+END

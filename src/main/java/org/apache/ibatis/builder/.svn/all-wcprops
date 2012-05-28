@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5276/trunk/src/main/java/org/apache/ibatis/builder
+END
+BaseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5007/trunk/src/main/java/org/apache/ibatis/builder/BaseBuilder.java
+END
+CacheRefResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/CacheRefResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/package-info.java
+END
+BuilderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/BuilderException.java
+END
+MapperBuilderAssistant.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/builder/MapperBuilderAssistant.java
+END
+SqlSourceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5266/trunk/src/main/java/org/apache/ibatis/builder/SqlSourceBuilder.java
+END
+IncompleteElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4731/trunk/src/main/java/org/apache/ibatis/builder/IncompleteElementException.java
+END
+StaticSqlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/builder/StaticSqlSource.java
+END
+ParameterExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5204/trunk/src/main/java/org/apache/ibatis/builder/ParameterExpressionParser.java
+END
+ResultMapResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5117/trunk/src/main/java/org/apache/ibatis/builder/ResultMapResolver.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations
+END
+create-schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/create-schema-mysql.sql
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/Foo.java
+END
+Bar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/Bar.java
+END
+FooMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/FooMapper.xml
+END
+FooMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/FooMapper.java
+END
+FooMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/FooMapperTest.java
+END
+sqlmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/null_associations/sqlmap.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references
+END
+ibatisConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/ibatisConfig.xml
+END
+EnumWithOgnlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/EnumWithOgnlTest.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/Person.java
+END
+PersonMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/PersonMapper.xml
+END
+PersonMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/PersonMapper.java
+END
+PersonMapper2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/PersonMapper2.xml
+END
+PersonMapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/xml_references/PersonMapper2.java
+END

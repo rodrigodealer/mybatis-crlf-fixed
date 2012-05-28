@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/autodiscover
+END
+AutodiscoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/autodiscover/AutodiscoverTest.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/autodiscover/CreateDB.sql
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/autodiscover/MapperConfig.xml
+END

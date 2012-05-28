@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5252/trunk/src/main/java/org/apache/ibatis/mapping
+END
+SqlCommandType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/SqlCommandType.java
+END
+DefaultDatabaseIdProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/DefaultDatabaseIdProvider.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/Environment.java
+END
+StatementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/StatementType.java
+END
+Discriminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/Discriminator.java
+END
+ResultFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/ResultFlag.java
+END
+CacheBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/CacheBuilder.java
+END
+VendorDatabaseIdProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/VendorDatabaseIdProvider.java
+END
+ResultMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5117/trunk/src/main/java/org/apache/ibatis/mapping/ResultMap.java
+END
+ParameterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/ParameterMap.java
+END
+SqlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/SqlSource.java
+END
+SqlMapperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/SqlMapperException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/package-info.java
+END
+ParameterMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/ParameterMode.java
+END
+BoundSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/BoundSql.java
+END
+ResultMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5252/trunk/src/main/java/org/apache/ibatis/mapping/ResultMapping.java
+END
+MappedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/mapping/MappedStatement.java
+END
+ResultSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/ResultSetType.java
+END
+DatabaseIdProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/mapping/DatabaseIdProvider.java
+END
+ParameterMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5234/trunk/src/main/java/org/apache/ibatis/mapping/ParameterMapping.java
+END

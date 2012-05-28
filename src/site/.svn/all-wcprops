@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5286/trunk/src/site
+END
+site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5286/trunk/src/site/site.xml
+END
+site_zh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5094/trunk/src/site/site_zh.xml
+END
+pdf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4838/trunk/src/site/pdf.xml
+END
+site_es.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5094/trunk/src/site/site_es.xml
+END
+site_ko.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5094/trunk/src/site/site_ko.xml
+END
+site_ja.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5094/trunk/src/site/site_ja.xml
+END

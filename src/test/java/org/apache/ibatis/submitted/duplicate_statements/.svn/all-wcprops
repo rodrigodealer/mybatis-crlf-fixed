@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements
+END
+AnnotatedMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/AnnotatedMapper.java
+END
+DuplicateStatementsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/DuplicateStatementsTest.java
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/Mapper.xml
+END
+AnnotatedMapperExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/AnnotatedMapperExtended.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/Mapper.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/CreateDB.sql
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/mybatis-config.xml
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4789/trunk/src/test/java/org/apache/ibatis/submitted/duplicate_statements/User.java
+END

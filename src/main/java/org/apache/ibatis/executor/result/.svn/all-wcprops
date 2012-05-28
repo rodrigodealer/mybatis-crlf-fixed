@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/result
+END
+DefaultMapResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4689/trunk/src/main/java/org/apache/ibatis/executor/result/DefaultMapResultHandler.java
+END
+DefaultResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4689/trunk/src/main/java/org/apache/ibatis/executor/result/DefaultResultHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/result/package-info.java
+END
+DefaultResultContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/result/DefaultResultContext.java
+END

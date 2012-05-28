@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/builder
+END
+mapper.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/mapper.properties
+END
+MinimalMapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/MinimalMapperConfig.xml
+END
+AuthorMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4642/trunk/src/test/java/org/apache/ibatis/builder/AuthorMapper.xml
+END
+BlogMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/BlogMapper.xml
+END
+PostMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/PostMapper.xml
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/MapperConfig.xml
+END
+ExamplePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/ExamplePlugin.java
+END
+NestedBlogMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/NestedBlogMapper.xml
+END
+ExampleObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/ExampleObjectFactory.java
+END
+ExampleTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/ExampleTypeHandler.java
+END
+XmlMapperBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/XmlMapperBuilderTest.java
+END
+ParameterExpressionParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5204/trunk/src/test/java/org/apache/ibatis/builder/ParameterExpressionParserTest.java
+END
+XmlConfigBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5007/trunk/src/test/java/org/apache/ibatis/builder/XmlConfigBuilderTest.java
+END
+CachedAuthorMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/builder/CachedAuthorMapper.xml
+END

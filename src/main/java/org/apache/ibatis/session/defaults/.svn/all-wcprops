@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/defaults
+END
+DefaultSqlSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5107/trunk/src/main/java/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/defaults/package-info.java
+END
+DefaultSqlSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/session/defaults/DefaultSqlSession.java
+END

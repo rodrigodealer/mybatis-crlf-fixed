@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5250/trunk/src/main/java/org/apache/ibatis/type
+END
+LongTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/LongTypeHandler.java
+END
+ShortTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/ShortTypeHandler.java
+END
+UnknownTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/UnknownTypeHandler.java
+END
+TypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/TypeException.java
+END
+ByteTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/ByteTypeHandler.java
+END
+EnumTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/EnumTypeHandler.java
+END
+JdbcType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/JdbcType.java
+END
+FloatTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/FloatTypeHandler.java
+END
+ObjectTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/ObjectTypeHandler.java
+END
+StringTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/StringTypeHandler.java
+END
+BaseTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/BaseTypeHandler.java
+END
+ArrayTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/ArrayTypeHandler.java
+END
+MappedJdbcTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/MappedJdbcTypes.java
+END
+BlobTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/BlobTypeHandler.java
+END
+SqlTimestampTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/SqlTimestampTypeHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/package-info.java
+END
+NStringTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/NStringTypeHandler.java
+END
+SimpleTypeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4699/trunk/src/main/java/org/apache/ibatis/type/SimpleTypeRegistry.java
+END
+Alias.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/Alias.java
+END
+MappedTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/MappedTypes.java
+END
+TimeOnlyTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/TimeOnlyTypeHandler.java
+END
+TypeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5250/trunk/src/main/java/org/apache/ibatis/type/TypeReference.java
+END
+ByteArrayTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/ByteArrayTypeHandler.java
+END
+TypeHandlerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5007/trunk/src/main/java/org/apache/ibatis/type/TypeHandlerRegistry.java
+END
+DoubleTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/DoubleTypeHandler.java
+END
+DateTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/DateTypeHandler.java
+END
+EnumOrdinalTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4783/trunk/src/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java
+END
+SqlTimeTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/SqlTimeTypeHandler.java
+END
+TypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4586/trunk/src/main/java/org/apache/ibatis/type/TypeHandler.java
+END
+DateOnlyTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/DateOnlyTypeHandler.java
+END
+BooleanTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/BooleanTypeHandler.java
+END
+ClobTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/ClobTypeHandler.java
+END
+BigIntegerTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/BigIntegerTypeHandler.java
+END
+BigDecimalTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/BigDecimalTypeHandler.java
+END
+TypeAliasRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/TypeAliasRegistry.java
+END
+CharacterTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4586/trunk/src/main/java/org/apache/ibatis/type/CharacterTypeHandler.java
+END
+IntegerTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/IntegerTypeHandler.java
+END
+SqlDateTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/SqlDateTypeHandler.java
+END
+NClobTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/type/NClobTypeHandler.java
+END

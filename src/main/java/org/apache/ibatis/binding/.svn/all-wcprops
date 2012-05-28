@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/binding
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/binding/package-info.java
+END
+MapperMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4985/trunk/src/main/java/org/apache/ibatis/binding/MapperMethod.java
+END
+MapperProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/binding/MapperProxy.java
+END
+BindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/binding/BindingException.java
+END
+MapperRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/binding/MapperRegistry.java
+END

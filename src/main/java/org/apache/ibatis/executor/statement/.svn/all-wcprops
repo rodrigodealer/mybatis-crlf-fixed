@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/statement
+END
+CallableStatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4946/trunk/src/main/java/org/apache/ibatis/executor/statement/CallableStatementHandler.java
+END
+StatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/statement/StatementHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/executor/statement/package-info.java
+END
+PreparedStatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4946/trunk/src/main/java/org/apache/ibatis/executor/statement/PreparedStatementHandler.java
+END
+RoutingStatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4604/trunk/src/main/java/org/apache/ibatis/executor/statement/RoutingStatementHandler.java
+END
+SimpleStatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4604/trunk/src/main/java/org/apache/ibatis/executor/statement/SimpleStatementHandler.java
+END
+BaseStatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4954/trunk/src/main/java/org/apache/ibatis/executor/statement/BaseStatementHandler.java
+END

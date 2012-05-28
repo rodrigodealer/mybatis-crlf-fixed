@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor
+END
+TeacherMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/TeacherMapper.xml
+END
+TeacherMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/TeacherMapper.java
+END
+StudentConstructorMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentConstructorMapper.xml
+END
+StudentConstructorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentConstructorMapper.java
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/Student.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/CreateDB.sql
+END
+StudentMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentMapper.xml
+END
+Teacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/Teacher.java
+END
+StudentMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentMapper.java
+END
+StudentConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentConstructor.java
+END
+NpeExtendsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/extends_with_constructor/NpeExtendsTest.java
+END

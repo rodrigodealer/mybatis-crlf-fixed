@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/cache/impl
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/cache/impl/package-info.java
+END
+PerpetualCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/cache/impl/PerpetualCache.java
+END

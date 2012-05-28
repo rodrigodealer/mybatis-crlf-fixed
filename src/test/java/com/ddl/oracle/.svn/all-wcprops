@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5159/trunk/src/test/java/com/ddl/oracle
+END
+jpetstore-oracle-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/test/java/com/ddl/oracle/jpetstore-oracle-dataload.sql
+END
+jpetstore-oracle-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5159/trunk/src/test/java/com/ddl/oracle/jpetstore-oracle-schema.sql
+END

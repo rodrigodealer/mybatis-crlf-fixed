@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor
+END
+OrdersMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/OrdersMapper.xml
+END
+OrdersMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/OrdersMapper.java
+END
+setupdb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/setupdb.txt
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/MapperConfig.xml
+END
+RefCursorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/RefCursorTest.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/Order.java
+END
+OrderDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/refcursor/OrderDetail.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4634/trunk/src/test/java/org/apache/ibatis/submitted/parametrizedlist
+END
+ParametrizedListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4634/trunk/src/test/java/org/apache/ibatis/submitted/parametrizedlist/ParametrizedListTest.java
+END
+Config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4634/trunk/src/test/java/org/apache/ibatis/submitted/parametrizedlist/Config.xml
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4628/trunk/src/test/java/org/apache/ibatis/submitted/parametrizedlist/Mapper.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4624/trunk/src/test/java/org/apache/ibatis/submitted/parametrizedlist/CreateDB.sql
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4624/trunk/src/test/java/org/apache/ibatis/submitted/parametrizedlist/User.java
+END

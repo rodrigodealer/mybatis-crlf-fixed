@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4634/trunk/src/test/java/org/apache/ibatis/submitted/generictypes
+END
+GenericTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4632/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/GenericTypesTest.java
+END
+Config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4634/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/Config.xml
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4633/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/Mapper.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4633/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/CreateDB.sql
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4633/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/Group.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4631/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/User.java
+END
+UserTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4633/trunk/src/test/java/org/apache/ibatis/submitted/generictypes/UserTypeHandler.java
+END

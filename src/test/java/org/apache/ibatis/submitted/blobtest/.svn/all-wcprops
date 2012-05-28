@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest
+END
+BlobMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest/BlobMapper.xml
+END
+BlobMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest/BlobMapper.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest/CreateDB.sql
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest/MapperConfig.xml
+END
+BlobRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest/BlobRecord.java
+END
+BlobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/blobtest/BlobTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5262/trunk/src/test/java/org/apache/ibatis/submitted/velocity
+END
+VelocitySqlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5262/trunk/src/test/java/org/apache/ibatis/submitted/velocity/VelocitySqlSource.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/Parameter.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/Name.java
+END
+VelocityLanguageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/VelocityLanguageTest.java
+END
+mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/mapper.xml
+END
+VelocitySqlSourceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/VelocitySqlSourceBuilder.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/CreateDB.sql
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5234/trunk/src/test/java/org/apache/ibatis/submitted/velocity/MapperConfig.xml
+END
+VelocityLanguageDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5262/trunk/src/test/java/org/apache/ibatis/submitted/velocity/VelocityLanguageDriver.java
+END

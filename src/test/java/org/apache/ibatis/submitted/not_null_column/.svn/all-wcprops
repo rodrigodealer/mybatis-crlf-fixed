@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column
+END
+ibatisConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/ibatisConfig.xml
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/Child.java
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/CreateDB.sql
+END
+NotNullColumnTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/NotNullColumnTest.java
+END
+Father.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/Father.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/Base.java
+END
+FatherMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/FatherMapper.xml
+END
+FatherMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/not_null_column/FatherMapper.java
+END

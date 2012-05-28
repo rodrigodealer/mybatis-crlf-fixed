@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn/Name.java
+END
+InsertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4950/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn/InsertTest.java
+END
+setupdb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn/setupdb.txt
+END
+InsertMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn/InsertMapper.xml
+END
+InsertMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn/InsertMapper.java
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/keycolumn/MapperConfig.xml
+END

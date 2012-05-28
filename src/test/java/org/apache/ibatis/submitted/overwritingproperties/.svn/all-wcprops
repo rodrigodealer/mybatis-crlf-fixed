@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties
+END
+create-schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/create-schema-mysql.sql
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/Foo.java
+END
+Bar.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/Bar.java
+END
+FooMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/FooMapper.xml
+END
+FooMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/FooMapper.java
+END
+FooMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/FooMapperTest.java
+END
+sqlmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/overwritingproperties/sqlmap.xml
+END

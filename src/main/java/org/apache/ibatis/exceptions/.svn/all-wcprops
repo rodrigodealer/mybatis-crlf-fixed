@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/exceptions
+END
+PersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/exceptions/PersistenceException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/exceptions/package-info.java
+END
+ExceptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/exceptions/ExceptionFactory.java
+END
+TooManyResultsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/exceptions/TooManyResultsException.java
+END
+IbatisException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/exceptions/IbatisException.java
+END

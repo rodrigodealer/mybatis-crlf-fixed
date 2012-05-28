@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/engine/transaction/sqlmap
+END
+SqlMapDaoTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/engine/transaction/sqlmap/SqlMapDaoTransactionManager.java
+END
+SqlMapDaoTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/engine/transaction/sqlmap/SqlMapDaoTransaction.java
+END

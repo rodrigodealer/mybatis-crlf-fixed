@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/client
+END
+DaoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/client/DaoException.java
+END
+Dao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/client/Dao.java
+END
+DaoManagerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/client/DaoManagerBuilder.java
+END
+DaoTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/client/DaoTransaction.java
+END
+DaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5159/trunk/src/test/java/com/ibatis/dao/client/DaoManager.java
+END

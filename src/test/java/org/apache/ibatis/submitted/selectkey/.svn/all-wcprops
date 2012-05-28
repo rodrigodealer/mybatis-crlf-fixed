@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/Name.java
+END
+AnnotatedMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/AnnotatedMapper.java
+END
+Table1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/Table1.xml
+END
+CreateDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/CreateDB.sql
+END
+Table2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/Table2.xml
+END
+SelectKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/SelectKeyTest.java
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/MapperConfig.xml
+END
+SqlProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5159/trunk/src/test/java/org/apache/ibatis/submitted/selectkey/SqlProvider.java
+END

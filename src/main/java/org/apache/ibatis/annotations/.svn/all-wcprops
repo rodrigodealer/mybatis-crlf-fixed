@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/annotations
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5159/trunk/src/main/java/org/apache/ibatis/annotations/Param.java
+END
+Results.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Results.java
+END
+ConstructorArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/ConstructorArgs.java
+END
+Delete.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Delete.java
+END
+Many.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Many.java
+END
+Insert.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Insert.java
+END
+Arg.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Arg.java
+END
+TypeDiscriminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/TypeDiscriminator.java
+END
+Case.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Case.java
+END
+ResultMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/ResultMap.java
+END
+DeleteProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/DeleteProvider.java
+END
+CacheNamespaceRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/CacheNamespaceRef.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Result.java
+END
+InsertProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/InsertProvider.java
+END
+Select.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Select.java
+END
+CacheNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/CacheNamespace.java
+END
+One.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/One.java
+END
+Update.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Update.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/package-info.java
+END
+MapKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/MapKey.java
+END
+SelectKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/SelectKey.java
+END
+SelectProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/SelectProvider.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/Options.java
+END
+UpdateProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4953/trunk/src/main/java/org/apache/ibatis/annotations/UpdateProvider.java
+END
