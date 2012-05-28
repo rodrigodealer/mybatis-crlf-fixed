@@ -1,113 +1,0 @@
-10
-
-dir
-5289
-http://mybatis.googlecode.com/svn/trunk/src/test/java/org/apache/ibatis
-http://mybatis.googlecode.com/svn
-
-
-
-2012-05-20T16:35:45.625857Z
-5270
-eduardo.macarron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6a4a4fef-ff2a-56b0-fee9-946765563393
-
-metadata
-dir
-
-type
-dir
-
-exceptions
-dir
-
-session
-dir
-
-BaseDataTest.java
-file
-
-
-
-
-2012-05-25T22:02:56.000000Z
-c16f60e7368635998a870d10898d97bc
-2012-04-13T14:03:27.027502Z
-5159
-simonetripodi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3774
-
-transaction
-dir
-
-builder
-dir
-
-logging
-dir
-
-datasource
-dir
-
-reflection
-dir
-
-plugin
-dir
-
-executor
-dir
-
-submitted
-dir
-
-jdbc
-dir
-
-parsing
-dir
-
-cache
-dir
-
-io
-dir
-
-binding
-dir
-

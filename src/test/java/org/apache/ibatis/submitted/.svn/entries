@@ -1,244 +1,0 @@
-10
-
-dir
-5289
-http://mybatis.googlecode.com/svn/trunk/src/test/java/org/apache/ibatis/submitted
-http://mybatis.googlecode.com/svn
-
-
-
-2012-05-20T16:35:45.625857Z
-5270
-eduardo.macarron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6a4a4fef-ff2a-56b0-fee9-946765563393
-
-integer_enum
-dir
-
-nested
-dir
-
-parametrizedlist
-dir
-
-automapping
-dir
-
-encoding
-dir
-
-cglib_lazy_error
-dir
-
-duplicate_resource_loaded
-dir
-
-multidb
-dir
-
-generictypes
-dir
-
-quotedcolumnnames
-dir
-
-cache
-dir
-
-includes
-dir
-
-nonexistentvariables
-dir
-
-autodiscover
-dir
-
-complex_type
-dir
-
-propertiesinmapperfiles
-dir
-
-batch_keys
-dir
-
-camelcase
-dir
-
-blobtest
-dir
-
-multiple_discriminator
-dir
-
-complex_column
-dir
-
-substitution_in_annots
-dir
-
-simplelistparameter
-dir
-
-extend
-dir
-
-selectkey
-dir
-
-missing_id_property
-dir
-
-criterion
-dir
-
-xml_references
-dir
-
-deferload_common_property
-dir
-
-keycolumn
-dir
-
-foreach
-dir
-
-ognlstatic
-dir
-
-flush_statement_npe
-dir
-
-dynsql
-dir
-
-column_prefix
-dir
-
-extends_with_constructor
-dir
-
-permissions
-dir
-
-result_handler_type
-dir
-
-column_forwarding
-dir
-
-duplicate_statements
-dir
-
-automatic_lazy_loading
-dir
-
-null_with_no_jdbctype
-dir
-
-awful_table
-dir
-
-missingcolumn
-dir
-
-count
-dir
-
-inheritance
-dir
-
-force_flush_on_select
-dir
-
-dynsql2
-dir
-
-enumtypehandler_on_map
-dir
-
-velocity
-dir
-
-basetest
-dir
-
-complex_property
-dir
-
-lazy_immutable
-dir
-
-manyanno
-dir
-
-ognl_enum
-dir
-
-map_class_name_conflict
-dir
-
-initialized_collection_property
-dir
-
-multiple_resultsets
-dir
-
-disallowdotsonnames
-dir
-
-custom_collection_handling
-dir
-
-null_associations
-dir
-
-lazyload_common_property
-dir
-
-overwritingproperties
-dir
-
-xml_external_ref
-dir
-
-valueinmap
-dir
-
-sptests
-dir
-
-not_null_column
-dir
-
-primitive_result_type
-dir
-
-order_prefix_removed
-dir
-
-refcursor
-dir
-
-inline_association_with_dot
-dir
-
-refid_resolution
-dir
-
