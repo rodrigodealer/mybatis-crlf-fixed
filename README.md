@@ -1,7 +1,7 @@
 mybatis-crlf-fixed
 ==================
 
-To package, just run: 
+To pack, just run: 
 
 1. $ mvn package 
 
